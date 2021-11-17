@@ -70,5 +70,6 @@
     <Build Include="dbo\Tables\Country.sql" />
     <Build Include="UserAudit\Tables\UserLog.sql" />
     <Build Include="Security\UserAudit.sql" />
+    <Build Include="dbo\Tables\Distributor.sql" />
   </ItemGroup>
 </Project>
